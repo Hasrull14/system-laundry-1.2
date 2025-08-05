@@ -95,16 +95,6 @@ Pastikan program ini dijalankan dengan struktur folder berikut, buat folder inpu
 
 ---
 
-## 💡 Fitur Tambahan yang Bisa Dikembangkan
-
-* Export ke Excel/CSV
-* Interface berbasis GUI (Qt / C++ CLI / Web)
-* Sorting dan pencarian pelanggan
-* Backup otomatis seluruh file
-* Login admin
-
----
-
 ## 📄 Lisensi
 
 Kode ini bersifat open-source dan bebas digunakan untuk pembelajaran, pengembangan tugas akhir, atau pengembangan usaha kecil. Jika digunakan, mohon cantumkan atribusi kepada pembuat asli.

@@ -1,7 +1,3 @@
-Berikut contoh isi **README.md** yang cocok untuk project program laundry berbasis C++ kamu:
-
----
-
 # 🧺 HSRL Laundry Management System
 
 Program ini adalah aplikasi sederhana berbasis **C++** untuk mengelola data pelanggan laundry. Sistem ini mencakup proses input pelanggan, pencatatan status laundry, pembayaran, serta pencatatan total omzet. Data pelanggan disimpan menggunakan file teks untuk mempertahankan histori bahkan setelah program ditutup.
@@ -114,5 +110,3 @@ Pastikan program ini dijalankan dengan struktur folder berikut, buat folder inpu
 Kode ini bersifat open-source dan bebas digunakan untuk pembelajaran, pengembangan tugas akhir, atau pengembangan usaha kecil. Jika digunakan, mohon cantumkan atribusi kepada pembuat asli.
 
 ---
-
-Kalau kamu mau file `README.md`-nya langsung, aku bisa bantu buatkan juga. Mau?

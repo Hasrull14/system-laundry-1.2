@@ -1,4 +1,4 @@
-# 🧺 HSRL Laundry Management System
+# 🧺 HSRL Laundry Management System With C++
 
 Program ini adalah aplikasi sederhana berbasis **C++** untuk mengelola data pelanggan laundry. Sistem ini mencakup proses input pelanggan, pencatatan status laundry, pembayaran, serta pencatatan total omzet. Data pelanggan disimpan menggunakan file teks untuk mempertahankan histori bahkan setelah program ditutup.
 

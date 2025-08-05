@@ -1,0 +1,6 @@
+ID : 343
+Nama : Doddy
+Berat : 1
+Paket : 2 - 15000/kg
+Harga : 15000
+Tanggal Masuk : 10:59 - 28-06-2025

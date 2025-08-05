@@ -1,0 +1,7 @@
+ID : 345
+Nama : andi
+Berat : 2.5
+Paket : 4 - 20000/kg
+Harga : 50000
+Tanggal Input : 10:59 - 28-06-2025
+Tanggal Bayar : 09:33 - 01-07-2025

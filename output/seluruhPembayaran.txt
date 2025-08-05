@@ -1,0 +1,32 @@
+Data Pembayaran Seluruh Pelanggan
+ID : 341
+Nama : hasrul
+Berat : 2.5
+Paket : 1 - 10000/kg
+Harga : 25000
+Tanggal Bayar : 11:01 - 28-06-2025
+
+ID : 342
+Nama : Dani
+Berat : 3
+Paket : 4 - 20000/kg
+Harga : 60000
+Tanggal Input : 10:59 - 28-06-2025
+Tanggal Bayar : 05:15 - 30-06-2025
+
+ID : 344
+Nama : hasrul
+Berat : 2
+Paket : 2 - 15000/kg
+Harga : 30000
+Tanggal Input : 10:59 - 28-06-2025
+Tanggal Bayar : 09:20 - 01-07-2025
+
+ID : 345
+Nama : andi
+Berat : 2.5
+Paket : 4 - 20000/kg
+Harga : 50000
+Tanggal Input : 10:59 - 28-06-2025
+Tanggal Bayar : 09:33 - 01-07-2025
+

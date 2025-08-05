@@ -1,0 +1,6 @@
+ID : 344
+Nama : hasrul
+Berat : 2
+Paket : 2 - 15000/kg
+Harga : 30000
+Tanggal Masuk : 09:19 - 01-07-2025
